@@ -1,6 +1,7 @@
 # 💫 Welcome to My Profile
 👋 Hey, I’m Aditya!<br><br>💻 Full-stack Web Developer with experience in both front-end and back-end technologies<br>📱 Aspiring Android Developer, currently learning Jetpack Compose 🚀<br>🔎 Great knowledge in DSA (Data Structures & Algorithms)<br>🧑‍🏫 Tutor for students, helping them grow their skills <br>🛠️ Always building and experimenting with new tech and projects<br>📚 Learning, improving, and sharing knowledge and coding since 2024<br>🌱 Passionate about collaborating and growing as part of the tech community
 
+![Morgan Maxwell](https://github.com/user-attachments/assets/f3b11552-6d60-4184-8717-b7e343f7c45e)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_yasxh__#13902) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-patanwar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Patanwar_Adit7x) 
