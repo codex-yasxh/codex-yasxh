@@ -1,5 +1,12 @@
-# 💫 Welcome to My Profile
-👋 Hey, I’m Aditya!<br><br>💻 Full-stack Web Developer with experience in both front-end and back-end technologies<br>📱 Aspiring Android Developer, currently learning Jetpack Compose 🚀<br>🔎 Great knowledge in DSA (Data Structures & Algorithms)<br>🧑‍🏫 Tutor for students, helping them grow their skills <br>🛠️ Always building and experimenting with new tech and projects<br>📚 Learning, improving, and sharing knowledge and coding since 2024<br>🌱 Passionate about collaborating and growing as part of the tech community
+# 💫 Welcome to My Space! Aditya this side...
+### 💻 Full-stack Web Developer with experience in both front-end and back-end technologies
+### 📱 Aspiring Android Developer, currently learning Jetpack Compose 🚀
+### 🔎 Great knowledge in DSA (Data Structures & Algorithms)
+### 🧑‍🏫 Tutor for students, helping them grow their skills 
+### 🛠️ Always building and experimenting with new tech and projects
+### 📚 Learning, improving, and sharing knowledge and coding since 2024
+### 🌱 Passionate about collaborating and growing as part of the tech community
+
 
 ![Morgan Maxwell](https://github.com/user-attachments/assets/f3b11552-6d60-4184-8717-b7e343f7c45e)
 
