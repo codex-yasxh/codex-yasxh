@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Welcome to My Profile
 👋 Hey, I’m Aditya!<br><br>💻 Full-stack Web Developer with experience in both front-end and back-end technologies<br>📱 Aspiring Android Developer, currently learning Jetpack Compose 🚀<br>🔎 Great knowledge in DSA (Data Structures & Algorithms)<br>🧑‍🏫 Tutor for students, helping them grow their skills <br>🛠️ Always building and experimenting with new tech and projects<br>📚 Learning, improving, and sharing knowledge and coding since 2024<br>🌱 Passionate about collaborating and growing as part of the tech community
 
 
