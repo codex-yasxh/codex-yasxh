@@ -1,5 +1,5 @@
 # 💫 Welcome to My Space! Aditya this side...
-### 📱 Aspiring Android Developer, currently learning Jetpack Compose 🚀
+### 📱 Native Android Developer, currently learning Jetpack Compose 🚀
 ### 💻 Full-stack Developer with experience in both front-end and back-end technologies
 ### 🔎 Great knowledge in DSA (Data Structures & Algorithms)
 ### 🧑‍🏫 Tutor for students, helping them grow their skills 
