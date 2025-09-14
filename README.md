@@ -6,9 +6,6 @@
 ### 🔎 Great knowledge in DSA (Data Structures & Algorithms)
 ### 🧑‍🏫 Tutor for students, helping them grow their skills 
 ### 🛠️ Always building and experimenting with new tech and projects
-### 📚 Learning, improving, and sharing knowledge and coding since 2024
-### 🌱 Passionate about collaborating and growing as part of the tech community
-
 
 ![Morgan Maxwell](https://github.com/user-attachments/assets/f3b11552-6d60-4184-8717-b7e343f7c45e)
 
