@@ -1,8 +1,7 @@
 # 💫 Welcome to My Space! Aditya this side...
-### 📱 Full Stack Mobile App Developer 💌
-### ❄️ React Native , Flutter and Kotlin 💓
+### 📱 Full Stack Mobile App Developer 💌 React Native , Flutter and Kotlin 💓
 ### 🔎 DSA (Data Structures & Algorithms)
-### 🧑‍🏫 Tutor for students, helping them grow their skills 
+### 🧑‍🏫 Tutor for students, filling the voids this society never could.
 ### 🛠️ Always building and experimenting with new tech and projects
 
 ![Morgan Maxwell](https://github.com/user-attachments/assets/f3b11552-6d60-4184-8717-b7e343f7c45e)
