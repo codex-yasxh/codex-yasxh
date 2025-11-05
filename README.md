@@ -49,5 +49,5 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-### ⚡ Acitivity Graph
+<h3> ⚡ Acitivity Graph </h3>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codex-yasxh&#x26;theme=tokyonight">
