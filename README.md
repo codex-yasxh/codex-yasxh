@@ -29,7 +29,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=codex-yasxh&icon=10&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="center">📊 Statistics</h3>
 
 <table align="center">
