@@ -28,13 +28,13 @@
 ---
 ## My Project Portfolio
 
-### 🤖 AI & Machine Learning
+### 🤖 Mobile App Projects
 | Project | Tech Stack | Description | Live Demo |
 |---------|------------|-------------|-----------|
 | **CallRag** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6B00) ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-1.7.0-blue) ![PDFPlumber](https://img.shields.io/badge/PDFPlumber-0.9.0-orange) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | RAG-powered chatbot | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://callrag.streamlit.app/) |
 | **IRIS Classifier** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | Flower species predictor | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://irislab.streamlit.app/) |
 
-### 📊 Data Applications
+### 📊 Web Projects
 | Project | Tech Stack | Description | Live Demo |
 |---------|------------|-------------|-----------|
 | **Up Stock** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![yFinance](https://img.shields.io/badge/yFinance-00A86B?logo=yahoo&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | Stock market tracker | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://upstok.streamlit.app/) |
@@ -47,15 +47,6 @@
 | **Email Automator** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SMTP](https://img.shields.io/badge/SMTP-1AB394?logo=mail.ru&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | Bulk email sender | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/sagar-chhabriya_python-automation-emailmarketing-activity-7187093664467247106-e7xZ) |
 | **Expense Tracker** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | Personal finance manager | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/sagar-chhabriya_python-codealpha-expensetracker-activity-7183180948593590273-duvj) |
 | **Jarvis AI** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SpeechRecognition](https://img.shields.io/badge/Speech_Recognition-3776AB) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | Voice-controlled assistant | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/sagar-chhabriya_gratitude-thankyou-techcommunity-activity-7180446935051288577-c2Sw) |
-
-
-### ☕ Java Applications
-| Project | Tech Stack | Description | Source |
-|---------|------------|-------------|--------|
-| **Currency Converter** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | Forex conversion tool | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/sagar-chhabriya_currencyconverter-softwaredevelopment-codealpha-activity-7120795865622953984-EQMX) |
-| **Attendance System** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | College attendance manager | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/sagar-chhabriya_codealphatriumphs-activity-7124734439116447744-jdnA) |
-| **Word Counter** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | Text analysis tool | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/sagar-chhabriya_codealpha-javainternship-progressmade-activity-7114224780936945667-Y97o) |
-| **Health Keeper** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | Fitness tracking app | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/sagar-chhabriya_secondsemester-javaprogramming-objectoriented-activity-7095314588090441731-GSjU) |
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codex-yasxh&icon=10&color=13)](https://visitcount.itsvg.in)
