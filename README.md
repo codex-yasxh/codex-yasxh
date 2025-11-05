@@ -30,3 +30,26 @@
 [![](https://visitcount.itsvg.in/api?id=codex-yasxh&icon=10&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="center">📊 Statistics</h3>
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codex-yasxh&theme=tokyonight" height="180em"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codex-yasxh&theme=tokyonight" height="180em"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codex-yasxh&theme=tokyonight" height="180em"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codex-yasxh&theme=tokyonight" height="180em"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codex-yasxh&theme=tokyonight" height="180em">
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+### ⚡ Acitivity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codex-yasxh&#x26;theme=tokyonight">
