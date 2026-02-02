@@ -19,6 +19,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=codex-yasxh&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Adit7xx?theme=dark&font=Karma&ext=heatmap)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
